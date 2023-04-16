@@ -1,0 +1,15 @@
+{
+    "name": "nathanpeltier/symphony-e-commerce",
+    "autoload": {
+        "psr-4": {
+            "Nathanpeltier\\SymphonyECommerce\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nthplt",
+            "email": "114916781+nthplt@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
